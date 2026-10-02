@@ -55,7 +55,7 @@ Track whether readers use the work, not just page views: citations clicked, retu
 ## Current starter sources
 
 - Svātmārāma, *The Hatha Yoga Pradipika*, translated by Pancham Sinh (1914), [Internet Archive record](https://archive.org/details/hathayogapradipi0000panc).
-- Hippocrates (Hippocratic corpus), *The Genuine Works of Hippocrates*, translated by Francis Adams (1849), [Project Gutenberg eBook 72583](https://www.gutenberg.org/ebooks/72583).
+- Hippocratic corpus, “On Breaths,” in *The Genuine Works of Hippocrates*, vol. II, translated by Francis Adams (1849), [Internet Archive scan](https://archive.org/details/genuineworksofhi02hippuoft/page/186/mode/2up).
 - “Exploring the Therapeutic Benefits of Pranayama (Yogic Breathing): A Systematic Review,” *International Journal of Yoga* (2020), [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC7336946/).
 
 These are starting points, not a substitute for checking the relevant pages, scholarly context, and the rights status of the specific edition before publication or reuse.
